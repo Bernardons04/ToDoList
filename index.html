@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body onload="mostrarValores()">
+    <div class="ToDoList">
+        <h1 id="titulo">
+           | To do List |
+        </h1>
+
+        <div class="content">
+            <div class="adicionar-item">
+                <input type="text" id="input-adicionar-task" placeholder="Digite sua nova task">
+                <button onclick="adicionarNovaTask()" id="adicionar-task">
+                    +
+                </button>
+            </div>
+
+            <div class="lista">
+                <ul id="to-do-list"></ul>
+            </div>
+        </div>
+
+    </div>
+</body>
+<script src="script.js"></script>
+</html>
