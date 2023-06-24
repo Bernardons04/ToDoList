@@ -6,7 +6,7 @@
 
 ### Esse projeto se trata de uma To Do List (Lista de afazeres em português).
 ### As informações a respeito da Task ficam armazenadas no localStorage, isso significa que mesmo que o usuário saia da página ou recarregue a página, o programa continuará carregando as informações que esse usuário inseriu anteriormente.
-### A ideia do projeto foi tirada de um dos vídeos do canal "Gustavo Neitzke", mas o código em Javascript, HTML e CSS foi desenvolvivo por mim.
+### A ideia do projeto foi tirada de um dos vídeos do canal "Gustavo Neitzke", mas o código foi desenvolvivo por mim.
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
